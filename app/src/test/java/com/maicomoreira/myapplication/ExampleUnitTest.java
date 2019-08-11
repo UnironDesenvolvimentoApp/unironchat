@@ -1,4 +1,4 @@
-package com.uniron.unironzap;
+package com.maicomoreira.myapplication;
 
 import org.junit.Test;
 
